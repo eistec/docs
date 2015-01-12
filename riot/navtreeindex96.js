@@ -1,5 +1,8 @@
 var NAVTREEINDEX96 =
 {
+"hashes_8h_source.html":[3,0,183],
+"hdc1000_8h.html":[3,0,184],
+"hdc1000_8h_source.html":[3,0,184],
 "hierarchy.html":[2,1],
 "hwtimer_8h.html":[3,0,186],
 "hwtimer_8h_source.html":[3,0,186],
@@ -246,8 +249,5 @@ var NAVTREEINDEX96 =
 "legacy_2cc110x-reg_8h.html#a0b427fac111aeb87a25687d2534f4578":[3,0,92,0],
 "legacy_2cc110x-reg_8h.html#a68f789eaaf447c063c7e1628298e8acc":[3,0,92,5],
 "legacy_2cc110x-reg_8h.html#a8821d725ae8a223a374fde2190ab6a04":[3,0,92,3],
-"legacy_2cc110x-reg_8h.html#a8d9c8896a855db907a75cf6f398bf761":[3,0,92,2],
-"legacy_2cc110x-reg_8h.html#ae9e8365d1266210ec6e2359795a3401f":[3,0,92,6],
-"legacy_2cc110x-reg_8h.html#aeac453b6a801eb5075bb58599aef022f":[3,0,92,1],
-"legacy_2cc110x-reg_8h_source.html":[3,0,92]
+"legacy_2cc110x-reg_8h.html#a8d9c8896a855db907a75cf6f398bf761":[3,0,92,2]
 };

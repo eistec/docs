@@ -1,6 +1,6 @@
 var NAVTREEINDEX54 =
 {
-"group__RFVBAT__Register__Masks.html#gaac2f9a56be08c02d917e25d2160bb25d":[3,0,254,4051],
+"group__RFVBAT__Register__Masks.html#gaac2f9a56be08c02d917e25d2160bb25d":[3,0,253,6807],
 "group__RFVBAT__Register__Masks.html#gac055aaeebf0ff5200e7b3703d6a6ed73":[3,0,253,6810],
 "group__RFVBAT__Register__Masks.html#gac055aaeebf0ff5200e7b3703d6a6ed73":[3,0,254,4054],
 "group__RFVBAT__Register__Masks.html#gad2932f13b6d26fa7ccb982b9cffcd184":[3,0,253,6801],
@@ -25,8 +25,8 @@ var NAVTREEINDEX54 =
 "group__RNG__Peripheral__Access__Layer.html#ga794b814e7cc50a77c3e540fb88945326":[1,11,34,7],
 "group__RNG__Peripheral__Access__Layer.html#ga799f35e89514a95969257046b5dab042":[3,0,253,6816],
 "group__RNG__Peripheral__Access__Layer.html#gab92662976cfe62457141e5b4f83d541c":[3,0,253,6814],
-"group__RNG__Peripheral__Access__Layer.html#gab92662976cfe62457141e5b4f83d541c":[1,11,34,6],
 "group__RNG__Peripheral__Access__Layer.html#gab92662976cfe62457141e5b4f83d541c":[1,11,34,5],
+"group__RNG__Peripheral__Access__Layer.html#gab92662976cfe62457141e5b4f83d541c":[1,11,34,6],
 "group__RNG__Peripheral__Access__Layer.html#gab92662976cfe62457141e5b4f83d541c":[3,0,254,4057],
 "group__RNG__Peripheral__Access__Layer.html#gafe29fd84164c78d03c9a7a2128caf361":[3,0,253,6817],
 "group__RNG__Peripheral__Access__Layer.html#gafe29fd84164c78d03c9a7a2128caf361":[1,11,34,8],

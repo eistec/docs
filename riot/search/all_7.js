@@ -102,7 +102,7 @@ var searchData=
   ['dfwr',['DFWR',['../structPORT__Type.html#af58c3f35d9f1036282d4e4edabfb77c2',1,'PORT_Type']]],
   ['dir',['DIR',['../structcc2538__gpio__t.html#a1be5e2052bf04b3ad401a6ef4683b60a',1,'cc2538_gpio_t']]],
   ['direct',['DIRECT',['../structCAU__Type.html#ad414a622f9732f77f9ca2ebb787c842c',1,'CAU_Type']]],
-  ['disable_5fwdog',['DISABLE_WDOG',['../group__board__stm32f4discovery.html#ga93c87c5f0e67ed3de661632f8b54d803',1,'board.h']]],
+  ['disable_5fwdog',['DISABLE_WDOG',['../group__board__mulle.html#ga93c87c5f0e67ed3de661632f8b54d803',1,'board.h']]],
   ['disableirq',['disableIRQ',['../group__core__irq.html#ga495b577a0ad5c4dc620339b2edff1ac5',1,'irq.h']]],
   ['disk_20io_20driver',['Disk IO Driver',['../group__diskio.html',1,'']]],
   ['diskio_2eh',['diskio.h',['../diskio_8h.html',1,'']]],

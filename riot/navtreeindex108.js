@@ -1,5 +1,8 @@
 var NAVTREEINDEX108 =
 {
+"structUSB__Type.html#a58b9187d7f4a00613210eae025612065":[1,11,42,2,52],
+"structUSB__Type.html#a5b1e07c43cb3d9b88a2bb92cf6c104d4":[1,11,42,2,8],
+"structUSB__Type.html#a5d81326ef75b015cfa68f73b9c8434bf":[1,11,42,2,12],
 "structUSB__Type.html#a5fcb6af78a2f032a938fb7cf6153d7ed":[1,11,42,2,48],
 "structUSB__Type.html#a715d7af4c2f91c63729777b62b435d67":[1,11,42,2,40],
 "structUSB__Type.html#a7271c06f949d448fa10196e2bb10bd93":[1,11,42,2,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX108 =
 "structcc1100__reg.html":[1,6,0,1],
 "structcc1100__reg.html#a0703676567c347cb725df11dfc71b58d":[1,6,0,1,9],
 "structcc1100__reg.html#a1103a6aeb0c430a73c20cf111e2c7617":[1,6,0,1,14],
-"structcc1100__reg.html#a17c92bc3aec2bbe5820f3df525da7d3b":[1,6,0,1,5],
-"structcc1100__reg.html#a1b5f7805d2752647a88da5f2d375d21c":[1,6,0,1,11],
-"structcc1100__reg.html#a23a17bc3b1fe575e9a30c46753e58578":[1,6,0,1,10],
-"structcc1100__reg.html#a23afd4c2086d98668d975730d51fe056":[1,6,0,1,0]
+"structcc1100__reg.html#a17c92bc3aec2bbe5820f3df525da7d3b":[1,6,0,1,5]
 };

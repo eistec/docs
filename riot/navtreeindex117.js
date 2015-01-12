@@ -1,5 +1,8 @@
 var NAVTREEINDEX117 =
 {
+"wsn430-v1__3b_2include_2board_8h_source.html":[3,0,58],
+"wsn430-v1__4_2include_2board_8h.html":[3,0,59],
+"wsn430-v1__4_2include_2board_8h_source.html":[3,0,59],
 "x86_2include_2cpu_8h.html":[3,0,153],
 "x86_2include_2cpu_8h_source.html":[3,0,153],
 "x86_2include_2hwtimer__cpu_8h.html":[3,0,203],
@@ -246,8 +249,5 @@ var NAVTREEINDEX117 =
 "x86__registers_8h.html#a96eab653303b7520624b787ae7c08f4e":[3,0,416,88],
 "x86__registers_8h.html#a988daef837386bae460d9e7063e93154":[3,0,416,3],
 "x86__registers_8h.html#a98fcaa2e7b9de25cec6ad8ea55f24220":[3,0,416,29],
-"x86__registers_8h.html#a9bbe3a7c203ef6b5940b1fc88e620957":[3,0,416,27],
-"x86__registers_8h.html#a9d13694faee25e82373e58c4cb47ba03":[3,0,416,89],
-"x86__registers_8h.html#a9e9a280d140c271d43763a64be0745c3":[3,0,416,86],
-"x86__registers_8h.html#a9f591b9319eebf8ff56d14d9e2a1bc12":[3,0,416,1]
+"x86__registers_8h.html#a9bbe3a7c203ef6b5940b1fc88e620957":[3,0,416,27]
 };

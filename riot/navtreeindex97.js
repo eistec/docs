@@ -1,5 +1,8 @@
 var NAVTREEINDEX97 =
 {
+"legacy_2cc110x-reg_8h.html#ae9e8365d1266210ec6e2359795a3401f":[3,0,92,6],
+"legacy_2cc110x-reg_8h.html#aeac453b6a801eb5075bb58599aef022f":[3,0,92,1],
+"legacy_2cc110x-reg_8h_source.html":[3,0,92],
 "lifo_8h.html":[3,0,231],
 "lifo_8h_source.html":[3,0,231],
 "lm75a-temp-sensor_8h.html":[3,0,232],
@@ -246,8 +249,5 @@ var NAVTREEINDEX97 =
 "mpl3115a2__reg_8h.html#addecce82db621fd168a276fe24417083":[3,0,256,63],
 "mpl3115a2__reg_8h.html#ae06cb4b66bd40d3c2b41add72b890a8e":[3,0,256,88],
 "mpl3115a2__reg_8h.html#ae2b088c975efff9bc4bb48a6bb7bfb2b":[3,0,256,8],
-"mpl3115a2__reg_8h.html#ae474a638d429219e3bb67888574d17ad":[3,0,256,77],
-"mpl3115a2__reg_8h.html#ae8dc0cc656a3b977918052e7584788fd":[3,0,256,2],
-"mpl3115a2__reg_8h.html#aeed309ecabbc2e51bc4b236ccf1edce4":[3,0,256,58],
-"mpl3115a2__reg_8h.html#af1bf9d27c18986d1a806f637298845d8":[3,0,256,65]
+"mpl3115a2__reg_8h.html#ae474a638d429219e3bb67888574d17ad":[3,0,256,77]
 };

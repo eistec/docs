@@ -124,7 +124,7 @@ $(document).ready(function(){initNavTree('mulle_2include_2board_8h_source.html',
 <div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="preprocessor">#undef LPTIMER_CLKSRC</span></div>
 <div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="preprocessor">#define LPTIMER_CLKSRC LPTIMER_CLKSRC_ERCLK32K</span></div>
 <div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;</div>
-<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="group__board__stm32f4discovery.html#ga93c87c5f0e67ed3de661632f8b54d803">   32</a></span>&#160;<span class="preprocessor">#define DISABLE_WDOG    1</span></div>
+<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="group__board__mulle.html#ga93c87c5f0e67ed3de661632f8b54d803">   32</a></span>&#160;<span class="preprocessor">#define DISABLE_WDOG    1</span></div>
 <div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;</div>
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="preprocessor">#define HW_TIMER            TIMER_0</span></div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;</div>
@@ -154,22 +154,22 @@ $(document).ready(function(){initNavTree('mulle_2include_2board_8h_source.html',
 <div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;<span class="preprocessor">#define LED_GREEN_OFF       (BITBAND_REG(LED_GREEN_PORT-&gt;PCOR, LED_GREEN_PIN) = 1)</span></div>
 <div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;<span class="preprocessor">#define LED_GREEN_TOGGLE    (BITBAND_REG(LED_GREEN_PORT-&gt;PTOR, LED_GREEN_PIN) = 1)</span></div>
 <div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;</div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;<span class="keywordtype">void</span> <a class="code" href="group__board__stm32f4discovery.html#ga916f2adc2080b4fe88034086d107a8dc">board_init</a>(<span class="keywordtype">void</span>);</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;<span class="keywordtype">void</span> <a class="code" href="group__board__mulle.html#ga916f2adc2080b4fe88034086d107a8dc">board_init</a>(<span class="keywordtype">void</span>);</div>
 <div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;</div>
 <div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;<span class="comment">/* enable 12pF load capacitance, might need adjusting.. */</span></div>
-<div class="line"><a name="l00096"></a><span class="lineno"><a class="line" href="group__board__stm32f4discovery.html#ga586ce325bd5dab6c4a1919ea30006e5d">   96</a></span>&#160;<span class="preprocessor">#define BOARD_RTC_LOAD_CAP_BITS (RTC_CR_SC8P_MASK | RTC_CR_SC4P_MASK)</span></div>
+<div class="line"><a name="l00096"></a><span class="lineno"><a class="line" href="group__board__mulle.html#ga586ce325bd5dab6c4a1919ea30006e5d">   96</a></span>&#160;<span class="preprocessor">#define BOARD_RTC_LOAD_CAP_BITS (RTC_CR_SC8P_MASK | RTC_CR_SC4P_MASK)</span></div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;</div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;</div>
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;<span class="preprocessor">#endif </span></div>
-<div class="ttc" id="group__board__stm32f4discovery_html_ga916f2adc2080b4fe88034086d107a8dc"><div class="ttname"><a href="group__board__stm32f4discovery.html#ga916f2adc2080b4fe88034086d107a8dc">board_init</a></div><div class="ttdeci">void board_init(void)</div><div class="ttdoc">Initialize board specific hardware, including clock, LEDs and std-IO. </div></div>
 <div class="ttc" id="periph__conf_8h_html"><div class="ttname"><a href="periph__conf_8h.html">periph_conf.h</a></div><div class="ttdoc">Native CPU peripheral configuration. </div></div>
+<div class="ttc" id="group__board__mulle_html_ga916f2adc2080b4fe88034086d107a8dc"><div class="ttname"><a href="group__board__mulle.html#ga916f2adc2080b4fe88034086d107a8dc">board_init</a></div><div class="ttdeci">void board_init(void)</div><div class="ttdoc">Initialize board specific hardware, including clock, LEDs and std-IO. </div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_6c8313236d9db5b969ca7d150fe527de.html">boards</a></li><li class="navelem"><a class="el" href="dir_983ed7f9e46e2ea475e8b87dcdf41771.html">mulle</a></li><li class="navelem"><a class="el" href="dir_637bd86c1f9c9304f9b33af0ea10d3c3.html">include</a></li><li class="navelem"><a class="el" href="mulle_2include_2board_8h.html">board.h</a></li>
-    <li class="footer">Generated on Mon Jan 12 2015 15:45:16 by
+    <li class="footer">Generated on Mon Jan 12 2015 16:06:55 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

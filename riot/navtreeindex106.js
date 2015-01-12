@@ -1,5 +1,8 @@
 var NAVTREEINDEX106 =
 {
+"structMACA__struct.html#a642066c9a27d1cf28c8eee502ce8e78b":[2,0,165,82],
+"structMACA__struct.html#a69e5f61cd5e471100c2bf83d763db64f":[2,0,165,57],
+"structMACA__struct.html#a6af90d82153f907beb35aaa11d8a9b38":[2,0,165,121],
 "structMACA__struct.html#a6b047f24be4a3843e84c8a2015e2fc8b":[2,0,165,26],
 "structMACA__struct.html#a6b2dbcfe4d9bb4bf9bfa5c07c4c1985f":[2,0,165,120],
 "structMACA__struct.html#a6fdcf1bfd17ba51188c8bb2a72d01159":[2,0,165,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX106 =
 "structSDHC__Type.html#abdf569e5af275dc64aa7e18209c7f4c7":[1,11,36,2,19],
 "structSDHC__Type.html#abf0771f8bc90488939e8feccbcd04a17":[1,11,36,2,3],
 "structSDHC__Type.html#ac1199644a3e0befa110f6f40108cd873":[1,11,36,2,7],
-"structSDHC__Type.html#ac8cb5cc51087466438d5e4a512ccffb3":[1,11,36,2,12],
-"structSDHC__Type.html#aca68d1c0500d041506d802b73756d947":[1,11,36,2,8],
-"structSDHC__Type.html#ad259cb56a5f2395fb1c29bf23ad45586":[1,11,36,2,16],
-"structSDHC__Type.html#ad574eee8860bc879f0e951e7354daf8a":[1,11,36,2,17]
+"structSDHC__Type.html#ac8cb5cc51087466438d5e4a512ccffb3":[1,11,36,2,12]
 };

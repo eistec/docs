@@ -32,6 +32,7 @@ var group__core__internal =
     [ "RB_AUTOBOOT", "group__core__internal.html#ga1959ea6ff411c3473e1849a7ca56df8f", null ],
     [ "UNREACHABLE", "group__core__internal.html#ga0bc63b24b654ca433be7b97a3edde132", null ],
     [ "thread_task_func_t", "group__core__internal.html#ga8a55a6406f871f01bd16be06c96b3f20", null ],
+    [ "board_init", "group__core__internal.html#ga916f2adc2080b4fe88034086d107a8dc", null ],
     [ "config_load", "group__core__internal.html#gaae965ba90aa0e0ef1655af06a6b11baf", null ],
     [ "config_save", "group__core__internal.html#ga041dcafbae099e0ea624693f1cf8c048", null ],
     [ "kernel_init", "group__core__internal.html#ga0dbe43a64cbf994bf9189e7767f93342", null ],
