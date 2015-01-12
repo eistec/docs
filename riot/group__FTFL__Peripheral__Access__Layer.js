@@ -1,0 +1,37 @@
+var group__FTFL__Peripheral__Access__Layer =
+[
+    [ "FTFL - Register accessor macros", "group__FTFL__Register__Accessor__Macros.html", null ],
+    [ "FTFL Register Masks", "group__FTFL__Register__Masks.html", null ],
+    [ "FTFL_Type", "structFTFL__Type.html", [
+      [ "FCCOB0", "structFTFL__Type.html#a5023d599178ad74b4d5762f51d1cba38", null ],
+      [ "FCCOB1", "structFTFL__Type.html#aa4b75cd929281e4b38c12c9a76a9b78f", null ],
+      [ "FCCOB2", "structFTFL__Type.html#a865ee1de7d3f4a65d9a077c337f10768", null ],
+      [ "FCCOB3", "structFTFL__Type.html#a64e838064f127564420c037cb1facf05", null ],
+      [ "FCCOB4", "structFTFL__Type.html#aeec890d71762ab0740e26d25011e2046", null ],
+      [ "FCCOB5", "structFTFL__Type.html#a13450abe2f8043f2aecce60a002afa2b", null ],
+      [ "FCCOB6", "structFTFL__Type.html#a74c3b1724bbc3b00eb6f7f0eedb90a9e", null ],
+      [ "FCCOB7", "structFTFL__Type.html#aa03eba1524fbb63a8756918660b9a40c", null ],
+      [ "FCCOB8", "structFTFL__Type.html#af0abb27e1d6d1ca50f4ab54b0f79aee2", null ],
+      [ "FCCOB9", "structFTFL__Type.html#a83e58cd38ec29c970707b3cdc0eede3d", null ],
+      [ "FCCOBA", "structFTFL__Type.html#a92f4fd98cef92514a5b3349a87e251dc", null ],
+      [ "FCCOBB", "structFTFL__Type.html#ad4ea1558e87a62850b6e2e830a00ca99", null ],
+      [ "FCNFG", "structFTFL__Type.html#af38d2317584c77c0b55dbcd5af6ead65", null ],
+      [ "FDPROT", "structFTFL__Type.html#ac1b1892634811f3572bfee2f26bf3a63", null ],
+      [ "FEPROT", "structFTFL__Type.html#aaae4af1399665688218a908ecd6089f2", null ],
+      [ "FOPT", "structFTFL__Type.html#a4206d682df29b11dbf23f4b3940f4dff", null ],
+      [ "FPROT0", "structFTFL__Type.html#aab0f659ba4ee8d05730e11ffc12a9fcf", null ],
+      [ "FPROT1", "structFTFL__Type.html#a4c6789725037e453d892ad87989c6091", null ],
+      [ "FPROT2", "structFTFL__Type.html#a279a8046f2080b0e52742997f48d6dc9", null ],
+      [ "FPROT3", "structFTFL__Type.html#a49744680a0ed6f22223ee4004bc6144c", null ],
+      [ "FSEC", "structFTFL__Type.html#ac9e28cd551640600df7f64b7a35180d6", null ],
+      [ "FSTAT", "structFTFL__Type.html#a0d820ab31c6df85119c6391dc9f1f051", null ],
+      [ "RESERVED_0", "structFTFL__Type.html#a7b7838a5148e5c72f2dd8336445aef3f", null ]
+    ] ],
+    [ "FTFL", "group__FTFL__Peripheral__Access__Layer.html#gad8b17655a14ff84bad8c1257d2599915", null ],
+    [ "FTFL", "group__FTFL__Peripheral__Access__Layer.html#gad8b17655a14ff84bad8c1257d2599915", null ],
+    [ "FTFL_BASE", "group__FTFL__Peripheral__Access__Layer.html#ga43f8c03c466ba542fe6c5c90376e51d1", null ],
+    [ "FTFL_BASE", "group__FTFL__Peripheral__Access__Layer.html#ga43f8c03c466ba542fe6c5c90376e51d1", null ],
+    [ "FTFL_BASE_ADDRS", "group__FTFL__Peripheral__Access__Layer.html#gae1daada1008f942e2f4c8b0ae1683fc6", null ],
+    [ "FTFL_BASE_PTRS", "group__FTFL__Peripheral__Access__Layer.html#ga53f420e5ee36db9ba581b1f299bc4820", null ],
+    [ "FTFL_COMMAND_COMPLETE_IRQS", "group__FTFL__Peripheral__Access__Layer.html#ga4242dccdf09bea71e67be87f79bcf6a7", null ]
+];

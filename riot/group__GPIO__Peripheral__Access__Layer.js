@@ -1,0 +1,35 @@
+var group__GPIO__Peripheral__Access__Layer =
+[
+    [ "GPIO - Register accessor macros", "group__GPIO__Register__Accessor__Macros.html", null ],
+    [ "GPIO Register Masks", "group__GPIO__Register__Masks.html", null ],
+    [ "GPIO_Type", "structGPIO__Type.html", [
+      [ "PCOR", "structGPIO__Type.html#a6c70e08238cd1fda316a11095b493719", null ],
+      [ "PDDR", "structGPIO__Type.html#a45c27e8ed0373953904b073c03bd1de5", null ],
+      [ "PDIR", "structGPIO__Type.html#a269fc0ec9450f3e86b2acddef2db7999", null ],
+      [ "PDOR", "structGPIO__Type.html#a361aec1ddf4e89774ea1d4a0fddd6ef4", null ],
+      [ "PSOR", "structGPIO__Type.html#a669ea2d1371abbcd552de208ea9230bc", null ],
+      [ "PTOR", "structGPIO__Type.html#aec9404442ba35916e2a747d2d0bf73de", null ]
+    ] ],
+    [ "GPIO_BASE_ADDRS", "group__GPIO__Peripheral__Access__Layer.html#ga7f97513de5235b3600dc07bf327fe315", null ],
+    [ "GPIO_BASE_PTRS", "group__GPIO__Peripheral__Access__Layer.html#gad0f7206167a584b1e75a81a5c30fa1c2", null ],
+    [ "GPIOA", "group__GPIO__Peripheral__Access__Layer.html#gac485358099728ddae050db37924dd6b7", null ],
+    [ "GPIOA_BASE", "group__GPIO__Peripheral__Access__Layer.html#gad7723846cc5db8e43a44d78cf21f6efa", null ],
+    [ "GPIOB", "group__GPIO__Peripheral__Access__Layer.html#ga68b66ac73be4c836db878a42e1fea3cd", null ],
+    [ "GPIOB_BASE", "group__GPIO__Peripheral__Access__Layer.html#gac944a89eb789000ece920c0f89cb6a68", null ],
+    [ "GPIOC", "group__GPIO__Peripheral__Access__Layer.html#ga2dca03332d620196ba943bc2346eaa08", null ],
+    [ "GPIOC_BASE", "group__GPIO__Peripheral__Access__Layer.html#ga26f267dc35338eef219544c51f1e6b3f", null ],
+    [ "GPIOD", "group__GPIO__Peripheral__Access__Layer.html#ga7580b1a929ea9df59725ba9c18eba6ac", null ],
+    [ "GPIOD_BASE", "group__GPIO__Peripheral__Access__Layer.html#ga1a93ab27129f04064089616910c296ec", null ],
+    [ "GPIOE", "group__GPIO__Peripheral__Access__Layer.html#gae04bdb5e8acc47cab1d0532e6b0d0763", null ],
+    [ "GPIOE_BASE", "group__GPIO__Peripheral__Access__Layer.html#gab487b1983d936c4fee3e9e88b95aad9d", null ],
+    [ "PTA", "group__GPIO__Peripheral__Access__Layer.html#ga953adcb40e14085a9ffd1aa0ae40084b", null ],
+    [ "PTA_BASE", "group__GPIO__Peripheral__Access__Layer.html#ga6e3037b53880ddd4072d88ed493e6581", null ],
+    [ "PTB", "group__GPIO__Peripheral__Access__Layer.html#gab245b794143f5d4aea6d1a5336b8b33e", null ],
+    [ "PTB_BASE", "group__GPIO__Peripheral__Access__Layer.html#ga8cd67de0ed62c0fe8395cc6e40af2451", null ],
+    [ "PTC", "group__GPIO__Peripheral__Access__Layer.html#ga7deefa3e1c7e45e4ccb31a8117bc181f", null ],
+    [ "PTC_BASE", "group__GPIO__Peripheral__Access__Layer.html#gafee763d072e472e36b335f8944b5de96", null ],
+    [ "PTD", "group__GPIO__Peripheral__Access__Layer.html#gacee2910b398755be94f612b243052efe", null ],
+    [ "PTD_BASE", "group__GPIO__Peripheral__Access__Layer.html#gaa002f1a0c5f963f8d162916b91e21bf0", null ],
+    [ "PTE", "group__GPIO__Peripheral__Access__Layer.html#ga074482d761e5bcd022a14aa7b8c294d7", null ],
+    [ "PTE_BASE", "group__GPIO__Peripheral__Access__Layer.html#gaac65442c7407ccb219eea68a45c2bdc6", null ]
+];

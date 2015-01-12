@@ -1,0 +1,38 @@
+var group__SDHC__Peripheral__Access__Layer =
+[
+    [ "SDHC - Register accessor macros", "group__SDHC__Register__Accessor__Macros.html", null ],
+    [ "SDHC Register Masks", "group__SDHC__Register__Masks.html", null ],
+    [ "SDHC_Type", "structSDHC__Type.html", [
+      [ "AC12ERR", "structSDHC__Type.html#a92e6997403c7018aaa8aa23eb0f4b0e7", null ],
+      [ "ADMAES", "structSDHC__Type.html#a65b39164de39bf3ff0f617dcfa17e346", null ],
+      [ "ADSADDR", "structSDHC__Type.html#a4bf2d837c70979425d638e1b23b383b5", null ],
+      [ "BLKATTR", "structSDHC__Type.html#abf0771f8bc90488939e8feccbcd04a17", null ],
+      [ "CMDARG", "structSDHC__Type.html#a817fe46317500419bff67ebd2ec8f10d", null ],
+      [ "CMDRSP", "structSDHC__Type.html#a85980d734764e8377f00179befd75336", null ],
+      [ "DATPORT", "structSDHC__Type.html#a18afc87de959a20b1ee89d3987dd2193", null ],
+      [ "DSADDR", "structSDHC__Type.html#ac1199644a3e0befa110f6f40108cd873", null ],
+      [ "FEVT", "structSDHC__Type.html#aca68d1c0500d041506d802b73756d947", null ],
+      [ "HOSTVER", "structSDHC__Type.html#a45a54237012b5f5aab3e48c11a527a0b", null ],
+      [ "HTCAPBLT", "structSDHC__Type.html#a151bd21debba72fa06e91dbe8ba669a5", null ],
+      [ "IRQSIGEN", "structSDHC__Type.html#a8b5ad3feb78b656f69a11c2c4db1e935", null ],
+      [ "IRQSTAT", "structSDHC__Type.html#ac8cb5cc51087466438d5e4a512ccffb3", null ],
+      [ "IRQSTATEN", "structSDHC__Type.html#a200633179af8e6f9ea82b31c1d193b3e", null ],
+      [ "MMCBOOT", "structSDHC__Type.html#a7d817bac2e7c2d53cff0703b76dddb3f", null ],
+      [ "PROCTL", "structSDHC__Type.html#aff7ce95313465bc87dc72f0411e364dd", null ],
+      [ "PRSSTAT", "structSDHC__Type.html#ad259cb56a5f2395fb1c29bf23ad45586", null ],
+      [ "RESERVED_0", "structSDHC__Type.html#ad574eee8860bc879f0e951e7354daf8a", null ],
+      [ "RESERVED_1", "structSDHC__Type.html#a7a1c63bd6ff2ff8e9c46475059878678", null ],
+      [ "RESERVED_2", "structSDHC__Type.html#abdf569e5af275dc64aa7e18209c7f4c7", null ],
+      [ "SYSCTL", "structSDHC__Type.html#ab90a257351d9e9d361f51bcbe48e84e4", null ],
+      [ "VENDOR", "structSDHC__Type.html#ade0658e5c75b98bb8419f5b68857fa4c", null ],
+      [ "WML", "structSDHC__Type.html#a61dd6c881db2eb748aaed392578869c7", null ],
+      [ "XFERTYP", "structSDHC__Type.html#aaf15f447a947396dffb6b71383e99170", null ]
+    ] ],
+    [ "SDHC", "group__SDHC__Peripheral__Access__Layer.html#gadfa975565f8f38eb596ca3ed92df30c8", null ],
+    [ "SDHC", "group__SDHC__Peripheral__Access__Layer.html#gadfa975565f8f38eb596ca3ed92df30c8", null ],
+    [ "SDHC_BASE", "group__SDHC__Peripheral__Access__Layer.html#gae62cd2bf9b9c484123918db65cc4834b", null ],
+    [ "SDHC_BASE", "group__SDHC__Peripheral__Access__Layer.html#gae62cd2bf9b9c484123918db65cc4834b", null ],
+    [ "SDHC_BASE_ADDRS", "group__SDHC__Peripheral__Access__Layer.html#gac247c4777a4c8704d90501a085108593", null ],
+    [ "SDHC_BASE_PTRS", "group__SDHC__Peripheral__Access__Layer.html#gaba68469bfde58472af9853b68fee61de", null ],
+    [ "SDHC_IRQS", "group__SDHC__Peripheral__Access__Layer.html#gac8a2a352713668bfc1ee4dc28bb16783", null ]
+];

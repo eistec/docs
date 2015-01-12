@@ -1,0 +1,88 @@
+var x86__uart_8h =
+[
+    [ "BAUD_HL", "x86__uart_8h.html#a2790ba272dce0d8c1c033d3ed7f52c67", null ],
+    [ "BAUD_LL", "x86__uart_8h.html#ae7bc0e5eca2e9899e6f5941d72cd43dc", null ],
+    [ "COM1_IRQ", "x86__uart_8h.html#a3685c78b9bd6dd0fa3861807e24a4e1b", null ],
+    [ "COM1_PORT", "x86__uart_8h.html#a8982f081d8608e775b0739cde65373d5", null ],
+    [ "COM2_IRQ", "x86__uart_8h.html#ab02d84052a299a0c207a8ea4c1a5636d", null ],
+    [ "COM2_PORT", "x86__uart_8h.html#a88373c3e34a242356333ec08389eae54", null ],
+    [ "COM3_IRQ", "x86__uart_8h.html#abc1c37f87d21b68b2422581980df451e", null ],
+    [ "COM3_PORT", "x86__uart_8h.html#a7925c6aeb208ee101019bd2fab72bbdd", null ],
+    [ "COM4_IRQ", "x86__uart_8h.html#a85ab22225c413ca85987282bcfa2aa12", null ],
+    [ "COM4_PORT", "x86__uart_8h.html#a6a073ab3980be7e830e801e76df9a1d0", null ],
+    [ "fcr_t", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9a", [
+      [ "FCR_ENABLE", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aa7b1cdfd01e22f33c84b56ca5317b6c30", null ],
+      [ "FCR_CLR_RECV", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aa27bd78f4a96452ff0146c340bd03cb1f", null ],
+      [ "FCR_CLR_SEND", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aa23a4654392cebe4788d2839dc85689a6", null ],
+      [ "FCR_MDA", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aa4d7d64c14f74975a1cb7e56f96a018ef", null ],
+      [ "FCR_64BYTE", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aacddea39b49bb1637916f5101419c7d9b", null ],
+      [ "FCR_TRIGGER_1", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aae74971283fa17381251f0df6e92c2296", null ],
+      [ "FCR_TRIGGER_16", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aa4e7ac743b7cc6653cf29c4dfc256ceba", null ],
+      [ "FCR_TRIGGER_32", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aaf39b53848c7f9fd5f094a7bccb962c85", null ],
+      [ "FCR_TRIGGER_56", "x86__uart_8h.html#a6b3763f3df149d122dae69861ce07f9aa3d8c98d8e1bc2588e469e1f5134b017f", null ]
+    ] ],
+    [ "ier_t", "x86__uart_8h.html#ab3de599ff203ed9cbee7484661db57d8", [
+      [ "IER_RECV", "x86__uart_8h.html#ab3de599ff203ed9cbee7484661db57d8a63d7e522e18b81b61c6c3b1478da0c10", null ],
+      [ "IER_SEND", "x86__uart_8h.html#ab3de599ff203ed9cbee7484661db57d8ad483b8d8bcf719ca7156c9fa50a4297c", null ],
+      [ "IER_LS", "x86__uart_8h.html#ab3de599ff203ed9cbee7484661db57d8a7a440fcfd12c36e60469fc8fec28e958", null ],
+      [ "IER_MS", "x86__uart_8h.html#ab3de599ff203ed9cbee7484661db57d8a72aa66eb6253c20c7fad9db87ce5f114", null ],
+      [ "IER_SLEEP", "x86__uart_8h.html#ab3de599ff203ed9cbee7484661db57d8a2c446311c078a6feb38ad47d1af8bc1f", null ],
+      [ "IER_LPM", "x86__uart_8h.html#ab3de599ff203ed9cbee7484661db57d8adb9eac52d721a2295caa91ced99d4dff", null ]
+    ] ],
+    [ "iir_t", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62", [
+      [ "IIR_IPF", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62a25b2f9e70f0761463c85e17e33af61d7", null ],
+      [ "IIR_INT_MASK", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62a338ed48d506f687d5a8189481b36ea5e", null ],
+      [ "IIR_INT_MS", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62af05e0dc6eeae341479d33bd232fcf718", null ],
+      [ "IIR_INT_TH", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62acc0cac06e350e2fa0dc02f791bc47722", null ],
+      [ "IIR_INT_BR", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62a926461e0b4ffbb6c8feb858f29ed573f", null ],
+      [ "IIR_INT_LS", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62aa93dbd2a9bd103f07a6f8c92adb4e05d", null ],
+      [ "IIR_INT_TO", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62af23384431ea5b73140becf29a32dc535", null ],
+      [ "IIR_FIFO64", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62a672e946caad9f23ca7e1229624cfb8b5", null ],
+      [ "IIR_FIFO_MASK", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62a4122a8a089a8a92d6384649ef2b872b0", null ],
+      [ "IIR_FIFO_NONE", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62a4e9a7c161f13b5fe3d0920a86614471b", null ],
+      [ "IIR_FIFO_RES", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62a74c1367045abe6784b7338fa51eedd2d", null ],
+      [ "IIR_FIFO_MAL", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62a51feaad32da1af7765c4c9e8040c6e96", null ],
+      [ "IIR_FIFO_ENABLED", "x86__uart_8h.html#a3af6de24b4d2dc39c9088aa5bda2bc62aea6ec7fca487658b443fc61ea35f6c5b", null ]
+    ] ],
+    [ "lcr_t", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4ba", [
+      [ "LCR_WORD_BITS_5", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baa958dcc748102e6f82104607d13469abd", null ],
+      [ "LCR_WORD_BITS_6", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baa8bbc33a8b64e8ccb28c1efcded29bd23", null ],
+      [ "LCR_WORD_BITS_7", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baa56fd555798264faff7e3a68aba3ae429", null ],
+      [ "LCR_WORD_BITS_8", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baa8bb1a1a9c2d19286c6af77d20d292b10", null ],
+      [ "LCR_STOP_BITS_1", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baa996e2eb0fc821744fdef4a83f77b0d0e", null ],
+      [ "LCR_STOP_BITS_2", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baae7251d9100f7d9e360dfa9fd3cdbc307", null ],
+      [ "LCR_PAR_NONE", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baaf7319908c8e4b1424e13e04f033eeabc", null ],
+      [ "LCR_PAR_ODD", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baaaa832abf775cc9ef05215e0b0658395f", null ],
+      [ "LCR_PAR_EVEN", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baae050f484e6228578e57f12d98883ec41", null ],
+      [ "LCR_PAR_MARK", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baa1625da6bd60148ffad8d1fb89ef75dd0", null ],
+      [ "LCR_PAR_SPACE", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baae3e9ebe134b3eb42715c71cce6b8fd07", null ],
+      [ "LCR_SET_BREAK", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baa16766a4a895b97a7c45162793a600a32", null ],
+      [ "LCR_DLAB", "x86__uart_8h.html#a161290edbada25ca967fdc8f9228d4baa8c920057f980f60d86524f767e92c58e", null ]
+    ] ],
+    [ "mcr_t", "x86__uart_8h.html#ad13e7c7dc92d7ea4a8dcaf797c54bfc9", [
+      [ "MCR_DSR", "x86__uart_8h.html#ad13e7c7dc92d7ea4a8dcaf797c54bfc9acbf338d8c679d1c3436d55bc49def8ba", null ],
+      [ "MCR_RTS", "x86__uart_8h.html#ad13e7c7dc92d7ea4a8dcaf797c54bfc9a99288e91282b727d5b1a66332751e4d6", null ],
+      [ "MCR_AUX1", "x86__uart_8h.html#ad13e7c7dc92d7ea4a8dcaf797c54bfc9a48aa63b874bf5a500c949f30e5fc3a34", null ],
+      [ "MCR_AUX2", "x86__uart_8h.html#ad13e7c7dc92d7ea4a8dcaf797c54bfc9a6ca333865034f5fa19e873388c3b00a3", null ],
+      [ "MCR_LOOPBACK", "x86__uart_8h.html#ad13e7c7dc92d7ea4a8dcaf797c54bfc9a292f993affc7342a45939449b699b601", null ],
+      [ "MCR_AUTOFLOW", "x86__uart_8h.html#ad13e7c7dc92d7ea4a8dcaf797c54bfc9a6075b3b6ffccf6f1ce542c2da5acc7cd", null ]
+    ] ],
+    [ "uart_port_offs_t", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251c", [
+      [ "THR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251cad481a610bd2db6b97d40ddcd9abbd04a", null ],
+      [ "RBR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251ca7ddac28db8b43ff987ad92ba8fd41316", null ],
+      [ "DLL", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251ca5c5afc4143e21b9aea12d6971f40e3fb", null ],
+      [ "IER", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251caa4fe81a2a70fb56b8e15785301bc7eb2", null ],
+      [ "DLH", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251ca1205e7ea02469844c4e412722ea962db", null ],
+      [ "IIR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251cabfd7826b9f1b726ce8d381892a2edfcc", null ],
+      [ "FCR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251ca5a580c96ceeff01db54303c9129d2018", null ],
+      [ "LCR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251cafc1f71df845b9b130a1c6200f27c53de", null ],
+      [ "MCR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251ca7b979e6392d4ed86e0c9c278ffeebd98", null ],
+      [ "LSR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251ca298da67ff8599a09829a91ad0ad3069b", null ],
+      [ "MSR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251cab11810deb50e765a9fc2189cc8dedee0", null ],
+      [ "SR", "x86__uart_8h.html#af21fe5aa2d6c5a994df71f908dc9251caf55bee7a30a0b05bb46ebb54e680a144", null ]
+    ] ],
+    [ "x86_early_init_uart", "x86__uart_8h.html#a6b1859c8c289711c347845761a997cbf", null ],
+    [ "x86_init_uart", "x86__uart_8h.html#a1c8a80ab65d4e420e12328aa70e1cd7a", null ],
+    [ "x86_uart_read", "x86__uart_8h.html#a02869187e43b157cb5cd27f69f9af106", null ],
+    [ "x86_uart_write", "x86__uart_8h.html#a626b37823b47fb19849a3f84dab8c753", null ]
+];
